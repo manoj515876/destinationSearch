@@ -1,0 +1,17 @@
+.list-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 30px;
+}
+
+.card-img {
+  border-radius: 10px;
+  width: 240px;
+  height: 240px;
+}
+
+.card-name {
+  color: #0f172a;
+  font-family: 'Roboto';
+}
